@@ -27,7 +27,7 @@ app.post("/", async (req, res) => {
         messages: [{ "role": "user", "content": message }],
         max_tokens: 100,
     });
-    console.log(response.choices[0].message.content);
+    // console.log(response.choices[0].message.content);
 
     if (response.choices[0].message) {
         res.json({ message: response.choices[0].message.content });

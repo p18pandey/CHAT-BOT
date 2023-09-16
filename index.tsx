@@ -11,7 +11,7 @@ const port = 3001;
 
 const openai = new OpenAI({
   apiKey: process.env.API_KEY,   // Use your API key here
-  // organization: process.env.ORG_KEY,
+  organization: process.env.ORG_KEY,
 });
 
 app.use(bodyParser.json());
@@ -31,7 +31,7 @@ app.post("/" , async(req ,res ) =>{
         max_tokens:100,
       });
       console.log(response.choices[0].message.content);    // testing response from api
-    
+      console.log(response.choices[0]);
     if(response.choices[0].message)
     {
         res.json({message: response.choices[0].message.content});   // sending message to chat component 
