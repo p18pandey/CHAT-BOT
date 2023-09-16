@@ -113,7 +113,7 @@ const Chat: React.FC = () => {
                     {/* textarea */}
                     <Textarea className=".chat-container .chat-input textarea"
 
-                        type="text"
+                        // type={"text"}
                         placeholder="type your message"
                         value={input}
                         onKeyUp={(e) => handleKeyUp(e)}

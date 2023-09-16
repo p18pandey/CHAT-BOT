@@ -31,7 +31,7 @@ app.post("/" , async(req ,res ) =>{
         max_tokens:100,
       });
       console.log(response.choices[0].message.content);    // testing response from api
-      console.log(response.choices[0]);
+      // console.log(response.choices[0]);
     if(response.choices[0].message)
     {
         res.json({message: response.choices[0].message.content});   // sending message to chat component 
