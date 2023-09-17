@@ -34,4 +34,20 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 Here are the screenshot of project.
-![Screenshot (36)](https://github.com/p18pandey/CHAT-BOT/assets/118770054/1217b4d5-c6c8-4a73-97dc-2258530cf016)
+![Screenshot (37)](https://github.com/p18pandey/CHAT-BOT/assets/118770054/c2fa425e-36a3-48ce-85d2-1027ada1ac5e)
+
+We can chat with the bot.
+![Screenshot (38)](https://github.com/p18pandey/CHAT-BOT/assets/118770054/3f61f4dd-e586-4813-8b35-69430cec55f7)
+
+We can ask any question .
+![Screenshot (39)](https://github.com/p18pandey/CHAT-BOT/assets/118770054/4000043d-df46-4b7c-ab19-e01bd01efb23)
+
+![Screenshot (40)](https://github.com/p18pandey/CHAT-BOT/assets/118770054/2f042a5d-fa43-47d9-bcd3-ad4d0295a4b1)
+
+![Screenshot (41)](https://github.com/p18pandey/CHAT-BOT/assets/118770054/6ecacad4-d767-4bed-bc58-82db396720a3)
+
+
+
+
+
+
